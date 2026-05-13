@@ -1,7 +1,5 @@
 """
 test_model.py — Diagnostic tool for the sign language Pipeline model.
-Run this after training to verify everything is working correctly
-before launching translator.py
 """
 import numpy as np
 import pickle
